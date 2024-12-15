@@ -1,2 +1,3 @@
 search-product-3
+search-product-3
 search-product-4
